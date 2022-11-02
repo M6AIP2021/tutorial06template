@@ -92,7 +92,7 @@ class GridElement:
     def get_distance(self):
         return self.distance
 
-    def get_score(self, score):
+    def get_score(self):
         return self.score
 
     def get_position(self):
